@@ -3,8 +3,7 @@
 
 
 - Build and run your image
-*![Build and run](https://github.com/pyruskimo/G4-Test/blob/master/Build%20and%20run%20your%20image.png)
-*![Build and run 1](https://github.com/pyruskimo/G4-Test/blob/master/Share%20images%20on%20Docker%20Hub.png)
+*![Build and run](https://github.com/pyruskimo/G4-Test/blob/master/Build-Run.png)
 
 
 
